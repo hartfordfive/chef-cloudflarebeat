@@ -1,0 +1,5 @@
+This cookbook installs and configures the Elastic Cloudflarebeat application, which is used to index the Cloudflare Enterprise Log Share logs.  
+
+For more details, please visit the application repository below:
+
+https://github.com/hartfordfive/cloudflarebeat
